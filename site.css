@@ -1,6 +1,8 @@
 body {
   text-align: center;
-  background: black;
+  background: url("https://i.imgur.com/VW0VGMX.jpg?1");
+  background-size: cover;
+  background-position: center;
   color: white;
   font-family: helvetica;
 }
