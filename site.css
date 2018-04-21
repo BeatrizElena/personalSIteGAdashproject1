@@ -3,6 +3,31 @@ body {
   background: url("https://i.imgur.com/VW0VGMX.jpg?1");
   background-size: cover;
   background-position: center;
+  color: black;
+  font-family: 'Cinzel Decorative', cursive;
+  position: relative;
+}
+p {
+  font-size: 24px;
+  padding: 380px;
+  background-color: rgba(178, 150, 0, 0.2);
+  margin: 0px;
+}
+input {
+  border: 0;
+  padding: 5px;
+  font-size: 18px;
+  margin: 4px; 0px 0px 0px;
+  text-align: center;
+}
+input[type="submit"] {
+  background: red;
   color: white;
-  font-family: helvetica;
+}
+img {
+  width: 170px;
+  height: 178px;
+  border-radius: 50%;
+  position: absolute;
+  right: 100;
 }
